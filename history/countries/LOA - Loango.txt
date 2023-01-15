@@ -1,4 +1,4 @@
-capital = 2624
+capital = 624
 primary_culture = bakongo
 religion = animist
 government = absolute_monarchy

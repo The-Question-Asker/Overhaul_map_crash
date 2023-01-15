@@ -1,4 +1,4 @@
-capital = 2648
+capital = 648
 primary_culture = yakut
 culture = russian
 religion = animist

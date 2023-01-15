@@ -1,4 +1,4 @@
-capital = 2247
+capital = 247
 primary_culture = north_andean
 religion = catholic
 government = democracy

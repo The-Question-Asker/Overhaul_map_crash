@@ -1,4 +1,4 @@
-capital = 2339
+capital = 339
 primary_culture = platinean
 culture = guarani
 religion = catholic

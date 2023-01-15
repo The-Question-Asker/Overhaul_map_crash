@@ -1,4 +1,4 @@
-capital = 2681
+capital = 681
 primary_culture = min
 culture = nanfaren
 religion = mahayana

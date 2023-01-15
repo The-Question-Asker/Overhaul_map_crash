@@ -1,4 +1,4 @@
-capital = 2454
+capital = 254
 primary_culture = melanesian
 religion = protestant
 government = absolute_monarchy

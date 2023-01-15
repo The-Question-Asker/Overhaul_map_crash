@@ -1,4 +1,4 @@
-capital = 2571 # Tauranga
+capital = 571 # Tauranga
 primary_culture = maori
 religion = animist
 government = absolute_monarchy

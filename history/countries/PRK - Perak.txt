@@ -1,4 +1,4 @@
-capital = 2575
+capital = 575
 primary_culture = malay
 culture = yue
 religion = sunni

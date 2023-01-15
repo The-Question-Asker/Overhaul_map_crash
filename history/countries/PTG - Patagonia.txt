@@ -1,4 +1,4 @@
-capital = 2329
+capital = 329
 primary_culture = patagonian
 religion = animist
 government = absolute_monarchy

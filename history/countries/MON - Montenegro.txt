@@ -1,4 +1,4 @@
-capital = 2583
+capital = 283
 primary_culture = serb
 religion = orthodox
 government = theocracy

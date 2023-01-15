@@ -1,4 +1,4 @@
-capital = 2344
+capital = 344
 primary_culture = platinean
 religion = catholic
 government = democracy

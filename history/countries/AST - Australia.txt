@@ -1,4 +1,4 @@
-capital = 2476
+capital = 476
 primary_culture = australian
 religion = protestant
 government = hms_government

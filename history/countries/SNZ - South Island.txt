@@ -1,4 +1,4 @@
-capital = 2513 # Dunedin
+capital = 513 # Dunedin
 primary_culture = australian
 religion = protestant
 government = hms_government

@@ -1,4 +1,4 @@
-capital = 2348
+capital = 348
 primary_culture = platinean
 religion = catholic
 government = presidential_dictatorship
@@ -78,7 +78,7 @@ oob = "ARG_oob.txt"
     oob = "/1861/ARG_oob.txt"
 }
 1861.1.1 = {
-capital = 2348
+capital = 348
 primary_culture = platinean
 religion = catholic
 government = democracy

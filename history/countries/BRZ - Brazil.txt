@@ -1,4 +1,4 @@
-capital = 2447
+capital = 447
 primary_culture = brazilian
 religion = catholic
 government = hms_government

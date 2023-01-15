@@ -1,4 +1,4 @@
-capital = 2356
+capital = 256
 primary_culture = platinean
 religion = catholic
 government = presidential_dictatorship

@@ -1,4 +1,4 @@
-capital = 2414
+capital = 2114
 primary_culture = kurdish
 religion = sunni
 government = absolute_monarchy

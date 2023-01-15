@@ -1,4 +1,4 @@
-capital = 2432
+capital = 232
 primary_culture = brazilian
 culture = afro_brazilian
 religion = catholic

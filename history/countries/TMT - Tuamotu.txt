@@ -1,4 +1,4 @@
-capital = 3319
+capital = 339
 primary_culture = polynesian
 religion = protestant
 government = absolute_monarchy

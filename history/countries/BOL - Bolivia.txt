@@ -1,4 +1,4 @@
-capital = 2313
+capital = 313
 primary_culture = south_andean
 religion = catholic
 government = presidential_dictatorship
