@@ -2274,11 +2274,11 @@ mild_climate = {
 }
 
 temperate_climate = {
-   2244
+  2244
 }
 
 harsh_climate = {
-   2243
+ 2243
 }
 
 inhospitable_climate = {

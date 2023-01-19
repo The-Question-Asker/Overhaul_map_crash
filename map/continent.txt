@@ -2238,15 +2238,57 @@ europe = {
 2235
 2236
 2237
-2238
-2239
-2240
-2241
-2242
-2243
-2244
+
 
     }
     assimilation_rate = -0.25
 }
 
+asia = {
+    provinces = {
+			2244
+	 }
+    assimilation_rate = -0.25
+}
+
+africa = {
+    provinces = {
+			2243
+	 }
+    assimilation_rate = -0.25
+}
+
+north_america = {
+    provinces = {
+ 			2242
+	 }
+    assimilation_rate = -0.25
+}
+
+south_america = {
+    provinces = {
+			2241
+	 }
+    assimilation_rate = -0.25
+}
+
+oceania = {
+    provinces = {
+			2240
+	 }
+    assimilation_rate = -0.25
+}
+
+australia_new_zealand = {
+    provinces = {
+			2239
+	 }
+    assimilation_rate = -0.25
+}
+
+polynesia = {
+    provinces = {
+			2238
+	 }
+    assimilation_rate = -0.25
+}
